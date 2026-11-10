@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body {
+	background-color: Gray;
+}
+
+#testa {
+	background-color: yellow;
+	text-align: Center;
+	Font-size: 30px;
+	padding: 5px;
+}
+
+#contenitore {
+	width: 840px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: red;
+	border: 2px solid red;
+}
+
+.pagina {
+	float: left;
+	height: 400px;
+	width: 276px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 10px;
+	background-color: red;
+	border: 2px solid black;
+	font-size: 15px;
+	
+}
+
+.clear{
+	clear: both;
+}
+
+
+img.libro {
+	height: 220px;
+	width: 150px;
+	border: 2px solid yellow;
+}
+
+.prezzo {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
